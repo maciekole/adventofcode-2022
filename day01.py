@@ -1,5 +1,5 @@
 """
-Advnt of Code
+Advent of Code
 --- Day 1: Calorie Counting ---
 source: https://adventofcode.com/2022/day/1
 """
